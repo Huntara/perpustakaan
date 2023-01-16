@@ -35,9 +35,21 @@
         <div class="footercoi">
             <div class="footlogo">
                 <div class="ea">
-                    <div class="anak-ea"></div>
+                    <div class="anak-ea">
+                        <img src="assets/img/wikrama.png" alt="">
+                        <p class="wikbooksfoot">WIKRAMA BOOKS</p>
+                        <p class="wikbooksfoot2">You can access book<br>for online and free</p>
+                    </div>
+                    <div class="anak2-ea">
+                        
+                    </div>
                 </div>
-                <div class="eaa"></div>
+                <div class="eaa">
+                    <p class="judul2-ea">Alamat</p>
+                        <p class="desk2-ea">Jl. Raya Wangun<br>Kelurahan Sindangsari<br>Bogor Timur 16720</p>
+                        <p class="judul2-ea">Telepon</p>
+                        <p class="desk2-ea">0251-8242411 / 082221718035<br>(Whatsapp)</p>
+                </div>
             </div>
             <div class="foot1">
                 <ul>
